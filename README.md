@@ -56,54 +56,54 @@ MEMBUAT DAN MENAMBAHKAN FILE REPOSITORY
    
    ![30 (2)](https://user-images.githubusercontent.com/57023379/67627899-88c2f280-f88f-11e9-8366-02c09bd2e71f.PNG)
 
-   
- # 7. simpan perubahan kedata base commit##
-    -gunakan perintah git commit-m "file pertama"
+   7. simpan perubahan kedata base commit
+ 
+   <br> -gunakan perintah git commit-m "file pertama"
     
-    ![30 (2)_LI](https://user-images.githubusercontent.com/57023379/67627923-d8a1b980-f88f-11e9-82a7-2f57d8597e3c.jpg)
+   <br> ![30n (2)_LI](https://user-images.githubusercontent.com/57023379/67627923-d8a1b980-f88f-11e9-82a7-2f57d8597e3c.jpg)
 
-    perubahan berhasil dibuat
+   perubahan berhasil dibuat
     
     
   # 8. membbuat repository server
   
-     -pastikan github account kamu sudah diverifikasi terlebih dahulu
-     -masukan ke akun kamu dan klik tombol+ yang ada dipojok kanan
+   -pastikan github account kamu sudah diverifikasi terlebih dahulu
+    -masukan ke akun kamu dan klik tombol+ yang ada dipojok kanan
      -klik new repository
      -masukan repository name contoh: latihanpytn1
      -uncheklis pada intialize this repository with a README agar memudahkan tutorial pembelajaaran ini 
      -kemudian klik creae respitory
      
-     ![5](https://user-images.githubusercontent.com/57023379/67627943-0b4bb200-f890-11e9-86a0-a58310936e3c.png)
+   ![5](https://user-images.githubusercontent.com/57023379/67627943-0b4bb200-f890-11e9-86a0-a58310936e3c.png)
 
      
      
 # 9. menambahkan remote respitory 
    
-      -remote respitory merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, 
+   -remote respitory merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, 
       sehingga bisa diaksess oleh banyak user.
       -untuk menambahkan gunakan perintah "git remmote add origin [url]"
       - contoh $git remote origin http://github.com/indahrembulancahya/latihanpytn1.git
       
-     ![30 (2)_LI](https://user-images.githubusercontent.com/57023379/67627923-d8a1b980-f88f-11e9-82a7-2f57d8597e3c.jpg)
+   ![30 (2)_LI](https://user-images.githubusercontent.com/57023379/67627923-d8a1b980-f88f-11e9-82a7-2f57d8597e3c.jpg)
 
 
 # 10. mengirimkan ke server push 
    
-       -untuk mengirim perubahan local repository keserver gunakan perintah git push 
+   -untuk mengirim perubahan local repository keserver gunakan perintah git push 
        $git push -u origin master 
        -nanti akan diminta email dan password kamu pastikan input dengan benar
        
-       ![13](https://user-images.githubusercontent.com/57023379/67628062-3f27d700-f892-11e9-807e-72df5985a2d0.png)
+   ![13](https://user-images.githubusercontent.com/57023379/67628062-3f27d700-f892-11e9-807e-72df5985a2d0.png)
 
        
        
  #  11. finish
    
-       -untuk melihatnya coba buka laman (http://github.com) arahkan pada repository yang anda buat tadi
+   -untuk melihatnya coba buka laman (http://github.com) arahkan pada repository yang anda buat tadi
        -maka perubahan dapat terlihat dengan munculnya file readme.md disitu
        
-       ![26](https://user-images.githubusercontent.com/57023379/67628072-68e0fe00-f892-11e9-8630-0fc72f555144.jpg)
+   ![26](https://user-images.githubusercontent.com/57023379/67628072-68e0fe00-f892-11e9-8630-0fc72f555144.jpg)
        
        #SEKIAN DAN TERIMAKASIH
 
